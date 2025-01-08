@@ -1536,7 +1536,7 @@
                         }), Object(g.jsx)("br", {}), Object(g.jsx)("center", {
                             children: Object(g.jsxs)("h5", {
                                 children: [" ", Object(g.jsxs)("a", {
-                                    href: "https://twitter.com/USDT_",
+                                    href: "https://twitter.com/LotteryInubsc",
                                     style: {
                                         color: "#ffc107",
                                         textDecoration: "none"
@@ -1545,7 +1545,7 @@
                                         class: "fa fa-twitter"
                                     }), " Twitter "]
                                 }), " || ", Object(g.jsxs)("a", {
-                                    href: "https://t.me/USDTofficialchat",
+                                    href: "https://t.me/lotteryinuchat",
                                     style: {
                                         color: "#ffc107",
                                         textDecoration: "none"
@@ -1555,7 +1555,7 @@
                                     }), " Telegram "]
                                 
                                 }), "|| ", Object(g.jsxs)("a", {
-                                    href: "https://bscscan.com/address/0x55d398326f99059fF775485246999027B3197955#code",
+                                    href: "https://bscscan.com/address/0x597eeaf9ee81411734e64eb5053339d145f7c0f1#code",
                                     style: {
                                         color: "#ffc107",
                                         textDecoration: "none"
